@@ -1,0 +1,4 @@
+ffmpeg -loop 1 -i Image.png -t 0.1 poster.mp4
+git add ./poster.mp4 # Add the poster image
+git commit -m "Poster Update $(date +"%Y%m%d_%H%M")"
+git push https://Catalyss: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@github.com/Catalyss/VRChatPoster.git
