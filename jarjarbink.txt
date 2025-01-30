@@ -2849,8 +2849,6 @@ LavenderTheLost
 #TIER=3
 Catalyss
 elusive ¬_¬
-SidMarcus
-PinballReviewer
 Palmdaddy
 EclipseOmega
 Alatreonslayer
